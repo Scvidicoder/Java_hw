@@ -1,3 +1,5 @@
+//который позволяет создавать новые объекты путем копирования существующих объектов, то есть путем клонирования
+
 package semestr4.lab6;
 import java.util.HashMap;
 import java.util.Map;

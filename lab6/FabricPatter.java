@@ -20,7 +20,7 @@ public class FabricPatter {
             System.out.println("Doing something in ConcreteProductB");
         }
     }
-
+//определяет метод для создания объекта, но позволяет подклассам выбирать класс создаваемого объекта
     // Интерфейс фабрики
     interface Factory {
         Product createProduct();
